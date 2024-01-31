@@ -5,7 +5,7 @@
 ### :tw-1f30e: Pagina desarrollada para Hackathon LauchX:
 - ### https://felipelarracilla.github.io/T-Ocean/
 
-###:tw-1f4c4: Paginas desarrolladas con tecnología HTML y CSS: 
+### :tw-1f4c4: Paginas desarrolladas con tecnología HTML y CSS: 
 <!--
 **FelipeLarracilla/FelipeLarracilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
