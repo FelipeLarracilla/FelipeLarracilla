@@ -1,5 +1,5 @@
 
-##Bienvenido :wave:
+## Bienvenido :wave:
 ### Mi nombre es Felipe, soy pasante de Ingeniería en Comunicaciones y Electrónica, aquí podrás encontrar algunos proyectos pequeños que he realizado para fortalecer los conocimiento enfocados en tecnologías de Desarrollo Web. 
 :book::books::computer:
 <!--
